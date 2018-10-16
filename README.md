@@ -1,2 +1,2 @@
 # hello-world
-First hllo world application
+First hello world application
